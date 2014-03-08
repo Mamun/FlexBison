@@ -1,0 +1,10 @@
+a = 3 + (4 *7) -9;
+print a;
+c = a+45;
+print c;
+
+**This is comment
+save c;
+
+** save c in the file
+print c*(a+32);
